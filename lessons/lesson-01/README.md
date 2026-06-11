@@ -108,7 +108,7 @@ Mahalob xan.   → Also fine. / Me too.
 **Ixchel:** Jach giimag in wool xan. Ka gaaht, Balaam.
 *Very nice to meet you too. Goodbye, Balaam.*
 
-**Balaam:** Dios bohodtig. Ka gaaht!
+**Balaam:** Kiito bohodtig. Ka gaaht!
 *Thank you. Goodbye!*
 
 ---
