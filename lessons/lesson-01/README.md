@@ -61,22 +61,32 @@ See [vocabulary.md](vocabulary.md) for the full word list.
 ## Grammar notes
 
 **1. No verb "to be" needed for simple statements:**
+
 Ten Maayah winik.
 I [am] Maya person.
+
 **2. Family nouns always take a possessive prefix:**
+
 in nah   → my mother
 a nah    → your mother
 u nah    → his / her mother
 in taatah  → my father
 a taatah   → your father
+
 **3. Yes/no questions: add `wah` at the end:**
+
 A taatah Maayah winik wah?
 Is your father a Maya person?
+
 **4. `jach` = very / really:**
+
 Jach mahalob.   → Very good.
 Jach giimag.    → Very happy.
+
 **5. `xan` = also / too (placed after the verb/adjective):**
+
 Mahalob xan.   → Also fine. / Me too.
+
 ---
 
 ## Sample dialogue
