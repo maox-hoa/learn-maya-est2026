@@ -66,7 +66,7 @@ nueva-maya/
 
 | # | Title | Topics |
 |---|-------|--------|
-| [01](lessons/lesson-01/) | Xok Yok'ol Maayah Daahn | Greetings, thanks, family, pronouns |
+| [01](lessons/lesson-01/) | Xok Yokhol Maayah Daahn | Greetings, thanks, family, pronouns |
 
 ## Design principles
 
