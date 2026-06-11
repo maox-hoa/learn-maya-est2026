@@ -35,3 +35,12 @@ All tone marks unchanged: `á é í ó ú` (high tone), `à è ì ò ù` (low to
 | sky | kaan | kaan |
 
 ## Automatic conversion rules
+p'  →  f
+t'  →  d
+k'  →  g
+ch' →  c
+ts' →  dz
+'   →  h   (saltillo / glottal stop)
+
+Run: `python tools/almg_to_nueva.py input.txt output.txt`
+
