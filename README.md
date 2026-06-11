@@ -1,6 +1,6 @@
 # Nueva Maya
 <p align="center">
-  <img src="chichen-itza.jpg" 
+  <img src="chichen_itza.jpg" 
        width="650" alt="Chichen Itza — El Castillo pyramid, Yucatán, Mexico">
   <br>
   <em>El Castillo, Chichen Itza, Yucatán, Mexico · 
