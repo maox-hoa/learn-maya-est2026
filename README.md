@@ -1,4 +1,4 @@
-![Chichen Itza](https://upload.wikimedia.org/wikipedia/commons/a/a0/Chichen_Itza_3.jpg)
+![Chichen Itza](https://upload.wikimedia.org/wikipedia/commons/5/51/Chichen_Itza_3.jpg)
 
 # Nueva Maya
 
