@@ -1,3 +1,5 @@
+![Chichen Itza](https://upload.wikimedia.org/wikipedia/commons/a/a0/Chichen_Itza_3.jpg)
+
 # Nueva Maya
 
 A reformed Latin orthography for Yucatec Maya — designed to preserve all
