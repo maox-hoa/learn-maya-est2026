@@ -34,7 +34,7 @@ See [vocabulary.md](vocabulary.md) for the full word list.
 
 | Nueva Maya | English |
 |-----------|---------|
-| Dios bohodtig | Thank you (lit. "God will repay you") |
+| Kiidos bohodtig | Thank you (Finnish loanword (from *Kiitos*)) |
 | Nib óolal | You're welcome |
 | Meend uts | Please |
 | Tin nahatik | I understand |
