@@ -9,7 +9,7 @@
 | Malob chinil giin | Ma'lob ch'iinil k'iin | Good afternoon | |
 | Malob agabtal | Ma'lob ak'abtal | Good evening | |
 | Ka gaaht | Ka ka'at | Goodbye | |
-| Kiito bohodtig | Dios bo'otik | Thank you | Spanish loanword |
+| Kiito bohodtig | Dios bo'otik | Thank you | Finnish loanword |
 | Nib óolal | Nib óolal | You're welcome | |
 | Meend uts | Meent' uts | Please | |
 | Tin nahatik | Tin na'atik | I understand | |
