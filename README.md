@@ -49,6 +49,7 @@ Yucatec Maya has five base vowels, each appearing in five forms:
 | Long glottal | `aah` | `oob` (→ `ooh`) | plural suffix |
 
 ## Repository structure
+```
 nueva-maya/
 ├── README.md
 ├── orthography/
@@ -59,7 +60,8 @@ nueva-maya/
 │       ├── README.md
 │       └── vocabulary.md
 └── tools/
-└── almg_to_nueva.py
+    └── almg_to_nueva.py
+```
 ## Lessons
 
 | # | Title | Topics |
