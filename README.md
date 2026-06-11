@@ -1,6 +1,12 @@
-![Chichen Itza](https://upload.wikimedia.org/wikipedia/commons/5/51/Chichen_Itza_3.jpg)
-
 # Nueva Maya
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Chichen_Itza_3.jpg" 
+       width="650" alt="Chichen Itza — El Castillo pyramid, Yucatán, Mexico">
+  <br>
+  <em>El Castillo, Chichen Itza, Yucatán, Mexico · 
+  <a href="https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg">Wikimedia Commons</a> 
+  · CC BY-SA 3.0</em>
+</p>
 
 A reformed Latin orthography for Yucatec Maya — designed to preserve all
 phonemic distinctions of the ALMG 1984 standard while eliminating the
