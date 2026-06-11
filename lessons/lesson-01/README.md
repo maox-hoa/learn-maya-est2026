@@ -61,3 +61,70 @@ See [vocabulary.md](vocabulary.md) for the full word list.
 ## Grammar notes
 
 **1. No verb "to be" needed for simple statements:**
+Ten Maayah winik.
+I [am] Maya person.
+**2. Family nouns always take a possessive prefix:**
+in nah   → my mother
+a nah    → your mother
+u nah    → his / her mother
+in taatah  → my father
+a taatah   → your father
+**3. Yes/no questions: add `wah` at the end:**
+A taatah Maayah winik wah?
+Is your father a Maya person?
+**4. `jach` = very / really:**
+Jach mahalob.   → Very good.
+Jach giimag.    → Very happy.
+**5. `xan` = also / too (placed after the verb/adjective):**
+Mahalob xan.   → Also fine. / Me too.
+---
+
+## Sample dialogue
+
+> Ixchel and Balaam meet for the first time at the market in Mérida.
+
+**Ixchel:** Malob jahat giin! Bix a beel?
+*Good morning! How are you?*
+
+**Balaam:** Mahalob, nib óolal. Jach mahalob. Tech?
+*Fine, thank you. Very good. And you?*
+
+**Ixchel:** Mahalob xan. In gaabah e Ixchel. Bix a gaabah?
+*Also fine. My name is Ixchel. What is your name?*
+
+**Balaam:** In gaabah e Balaam. Jach giimag in wool in wiligech, Ixchel.
+*My name is Balaam. Very nice to meet you, Ixchel.*
+
+**Ixchel:** Jach giimag in wool xan. Ka gaaht, Balaam.
+*Very nice to meet you too. Goodbye, Balaam.*
+
+**Balaam:** Dios bohodtig. Ka gaaht!
+*Thank you. Goodbye!*
+
+---
+
+## Practice exercises
+
+**Exercise 1 — Translate to Nueva Maya:**
+1. Good morning.
+2. My name is _____.
+3. Very nice to meet you.
+4. Thank you.
+5. Goodbye.
+
+**Exercise 2 — Translate to English:**
+1. `Bix a beel?`
+2. `In gaabah e Balaam.`
+3. `Ma tin nahatik.`
+4. `A taatah Maayah winik wah?`
+5. `Jach mahalob, nib óolal.`
+
+**Exercise 3 — Fill in the blank:**
+1. `_____ a beel?` (How)
+2. `In gaabah _____ Ixchel.` (is)
+3. `Mahalob, _____ óolal.` (you're welcome)
+4. `_____ mahalob.` (very)
+
+---
+
+*Answer key: see [answers.md](answers.md)*
